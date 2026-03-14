@@ -8,7 +8,7 @@ const app = Vue.createApp({
     };
   },
   methods: {
-    toogleShowBooks() {
+    toggleShowBooks() {
       this.showBooks = !this.showBooks;
     },
   },
