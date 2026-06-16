@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Create banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": "2",
+      "title": "Marketing email",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "title": "Design a website",
+      "details": "Design today",
+      "complete": false,
+      "id": "PkBJmdLd3rk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
